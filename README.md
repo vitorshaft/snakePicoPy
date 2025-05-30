@@ -3,6 +3,10 @@
 
 Este é um projeto em MicroPython que simula o jogo Snake com uma IA básica que busca a comida automaticamente, rodando em um Raspberry Pi Pico com um display OLED I2C SSD1306.
 
+<div style="display: inline_block">
+<img align="center" src="/demo.gif" alt="Demonstração"  width="40%">
+</div>
+
 ## Funcionalidades
 
 - Animação suave no display OLED
